@@ -22,3 +22,5 @@ title: HelloWord,基于GitHub Pages构建个人博客站点
 # 构建结果
 就是你现在看到的站点了，以后就要像阮一峰、刘未鹏、阳志平这些前辈大牛好好学习了，并不是买了一枝好彩笔就能画幅好画，写博一样一样的。 
 模板是使用[Tom Preston-Werner mojombo](https://github.com/mojombo/mojombo.github.io.git)的样式。
+
+本作品采用[知识共享署名-非商业性使用-禁止演绎 3.0 Unported许可协议](http://creativecommons.org/licenses/by-nc-nd/3.0/)进行许可。
