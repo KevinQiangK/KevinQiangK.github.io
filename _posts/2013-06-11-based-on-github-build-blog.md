@@ -4,7 +4,7 @@ title: HelloWord,基于GitHub Pages构建个人博客站点
 ---
 
 # {{ page.title }}#
-11 June 2010 - Beijing
+11 June 2013 - Beijing
 
 # 构建缘由#
 
